@@ -1,0 +1,28 @@
+{
+	"id": "e112d2-qdqwqdc-wqwwwewe",
+	"name":"James",
+	"detail": "react,vue,python He is fullstack developer.<br><a href='' target='_blank'>go new page</a>",
+	"children": [{
+		"id": "e112d2-qdqwqdc-wqwwwewd",
+		"name": "Mina(ミナ)プロトコルの概要とステーキングの方法",
+		"detail": "Mina(ミナ)プロトコルの概要とステーキングの方法\nミナ（MINA）プロトコルはどんな特徴を持つブロックチェーンなのかと、一般ユーザ向けのステーキングの方法を紹介します。\n\nMinaプロトコルを知るための公式情報は下記の通りです。\n",
+		"children": [{
+			"id": "e112d2-qdqwqdc-wqwwwewf",
+			"name": "DeFi(分散型金融)利用者なら知っておきたい「MEV」とは？",
+			"detail": "DeFi(分散型金融)利用者なら知っておきたい「MEV」とは？\nDeFi(分散型金融)利用者なら知っておきたい「MEV」とは？\n「Decentralized Web」という新しい概念と関連プロジェクト\n「Decentralized Web」という新しい概念と関連プロジェクト"
+		},{
+			"id": "e112d2-qdqwqdc-wqwwwewg",
+			"name": "Minaとは",
+			"detail": "Minaとは？\n<a href='//www.google.com?q=Mina' target='_blank'>Mina</a>が開発するブロックチェーンは、世界最軽量とうたわれており「zk-SNARK」という暗号技術を利用している点が特長です。ビットコイン（BTC）やイーサリアム（ETH）をはじめとしたブロックチェーンは、何百ギガバイトものデータを保存しており、時間が経てば経つほどブロックチェーンのサイズは大きくなります。しかし、Minaでは使用量が増えても、ブロックチェーンのサイズは常に同じで、約22KBにとどまるように設計され、ネットワークの同期や検証を素早く行うことができます。\n\nMinaをスタートさせたのは「O(1) Labs」という組織で、ウェブサイトの情報は少ないものの、アメリカのサンフランシスコが拠点であるような表記が見られます。\n\nMinaトークンは他のブロックチェーン上のネイティブトークンと同じようにトランザクション手数料としての支払などに使われ、またステーキングすることも可能です。2021年6月下旬時点で１MINAあたり約 1.78ドルで取引されています。\n"
+		}]
+	}, {
+		"id": "e112d2-qdqwqdc-wqwwwewh",
+		"name": "max 200",
+		"detail": "max 2000"
+	}, {
+		"id": "e112d2-qdqwqdc-wqwwwewi",
+		"name": "ニュースニュースqqwfqwfqwfqwf",
+		"detail": "HOME\nニュース\n価格相場/チャート\n初心者\nライター\n取引所口座開設方法\n仮想通貨取引所比較\nPR\nイベントまとめ\nCoin Choice (コインチョイス) ホームブロックチェーンMina(ミナ)プロトコル...\nブロックチェーン\nMina(ミナ)プロトコルの概要とステーキングの方法\n著者 コインチョイス編集部 -2021年6月28日"
+	}
+	]
+}
